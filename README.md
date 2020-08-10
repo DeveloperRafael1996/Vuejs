@@ -1,6 +1,6 @@
-# SISTEMA DE VENTAS CON VUEJS CON FRAMEWORK DE COMPONENTES VUETIFY Y BACKEND ASP.NET CORE 2.1
-TITLE
-SISTEMA DE FACTURACION ELECTRONICA CON VUEJS
+# Sistema de Gestion de Ventas con Vuejs con Framework de Componentes Vuetify y Backend ASP.NET CORE 2.2
 
-USUARIO: rguevara
-CONTRASEÑA: 12345
+Facturacion Electronica 
+
+Usuario: rguevara
+Contraseña: 12345
